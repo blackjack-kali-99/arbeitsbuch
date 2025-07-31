@@ -1,5 +1,3 @@
-Idea : I could make a sort of tattoo 
-That like a mental palace I have Anchor points that let me remember stuff and help 
 
 - Algorithms 
 - 💫python💫
