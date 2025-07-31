@@ -1,0 +1,19 @@
+Alright here is my solution sketch / framework / how I'd solve it.
+- Soziogram der Gruppe: 
+Sascha , ganz oben, gewinnt Autorität durch Einschüchtern.
+Kian, direkt darunter, nicht auf einer Stufe mit Sascha aber schließt sich ihm direkt an (was er gewohnt ist), und hat damit eine zweitrangige Führungsposition. 
+Ganz unten: zuerst Zara, die durch Mediation noch ein wenig Vertrauen der Gruppe gewinnen könnte. Obwohl sie die jüngste ist. Sie kümmert sich außerdem um Emily und möglicherweise Leon. 
+Unter ihr: Emily, die sich aus Prinzip komplett unterordnet, Konflikte möglichst komplett meidet und sich an Zara orientiert. 
+Außen:
+Milo, der sich in die Hierachie überhaupt nicht einfügen will. Das wird zu Konflikten v.a. mit Sascha führen, der sich dadurch bedroht oder nicht respektiert fühlt und bei Kian, der selbst sehr Hierarchie orientiert ist. Außerdem ist Zaras Einstellung fraglich, wenn sie einschätzt dass Milo Konflikte "provoziert". 
+Leon, außen und ganz unten. Er hält sich aus allem raus, wird nicht einbezogen und es ist ihm egal. 
+---
+**Gruppenphasen nach Bernstein & Lowy**
+Orientierungsphase: erwähnen wir nur der Vollständigkeit halber, da rollendynamiken etc eben noch nicht ausgefeilt sind.
+Typische Merkmale sind das Kennenlernen und beschnuppern untereinander, distanz zueinander und noch keine festen Bindungen. Die Mitglieder versuchen, sich untereinander einzuschätzen.
+Typisch für die Mitglieder in dieser Phase: 
+- Sascha: suche nach "Konkurrenz", einschätzen der Gruppe auf "schwache" und "starke" Mitglieder. Wichtig : Sascha weiß zwar, wie die sozialen Regeln und Bedürfnisse der einzelnen Mitglieder sind, nutzt diese aber gezielt aus, um sich zu behaupten. 
+- Kian: Kian sucht von vorneherein genau wie Sascha nach "starken" und "schwachen" , allerdings um die Hierarchie einschätzen zu können und die Führung zu unterstützen. Er sieht sich selbst als schwach und der Platz direkt neben dem Anführer ist der sicherste. 
+- Milo: analysiert, beobachtet, versucht vermutlich die Gruppendynamik durch logische Analyse einzuschätzen und evtl. logische Kontakte zu knüpfen. 
+- Leon: hat vermutlich nicht wirklich Interesse an der ganzen Aktion. 
+- Emily / Zara: da sie die einzigen Mädchen sind, Emily traumatisiert ist durch Gewalt und beide eher konfliktscheu, kann es gut sein dass sie sich von vornherein etwas abkapseln, aber dass durch Zaras hochsozialität sie Emily etwas "mitnimmt" und sie trotzdem zu zweit mit allen anderen Mitgliedern etwas Zeit verbringen, um sie einzuschätzen. Wichtig ist zu beachten, dass beide sehr Schutzbedürftig sein sollten, und daher selbst schnell einzuschätzen versuchen, welche Hierarchien sich bilden. Wenn sie Sascha als bedrohlich sehen, kann es gut sein dass sie sich ihm sofort unterordnen, um im Zweifelsfall von ihm geschützt zu werden.

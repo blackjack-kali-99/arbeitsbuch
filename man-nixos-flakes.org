@@ -1,0 +1,33 @@
+#+title: Manual NixOS Flakes
+*  what are nix flakes?
+- self-contained units
+- have *inputs* - dependencies
+- and *outputs* - packages, build instructions, nix funtions for use in other flakes
+ = reproducibility bc they ccan only depend on their inputs and pin the exact versions of those inputs to a lockfile
+
+* get unstable nix up and running (? is this necessary?)
+
+* nixlang stuff
+
+* writing flakes
+- Flake = a directory that contains a flake.nix file
+  - which must include:
+    - outputs
+  - optionally can include:
+    - inputs
+    - description
+
+* outputs
+= funtion that takes an attribute set of inputs
+- always at least one output: self
+
+-----
+
+{
+ inputs = {
+   nixpkgs.url = "github:nixos/nixpkgs";
+   };
+ outputs = { self, nixpkgs }: {};
+}
+
+-----

@@ -1,0 +1,25 @@
+#+title: Mathematical Proofs
+
+a proof is an argument (verification) of a mathematical statement (theorem)
+Lemma - small/helping theorem
+Corollary - a direct result of a theorem
+Conjecture - posed to be true but not proven
+
+How?
+Definitions, Axioms, Logic
+
+*What does it look like?*
+Axiom -> logical progression -> theorem
+
+Assumptions and Conclusions are given
+What ari re proving
+simething equals something, something has a quality
+
+Theorem: Root of 2 is irrational
+Defition of a ratioanl/irrational number
+Def: An irrational number is a real number that cannot be expressed in thi form m/n, where m and n are integers
+- Suppose root of 2 ir ratioanl
+- so m and n are integers
+- trying to prove the opposite and finding a logical contradiction disproves it?
+
+*

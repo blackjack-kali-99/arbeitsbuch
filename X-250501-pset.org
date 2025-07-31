@@ -1,0 +1,53 @@
+#+title: X 250501 Pset
+
+* übungsaufgabe die ich mal vor einer klausur gemacht hab, ist obviously von AI geschrieben 
+
+
+
+## **Gruppenpsychologie – Komplexes Fallbeispiel (Abi-Niveau, tiefenanalysefähig)**
+
+### **Fallbeispiel
+
+Ein sozialpädagogisches Modellprojekt bringt sechs Jugendliche mit verschiedenen Biografien in einer betreuten Wohngruppe zusammen. Das Ziel: Stärkung sozialer Kompetenzen durch selbstorganisierte Gruppenprozesse und gemeinschaftliches Leben für sechs Monate. Die Gruppe lebt isoliert in einem abgelegenen Haus und muss sich um alle Alltagsaufgaben – vom Kochen bis zur Konfliktmoderation – eigenständig kümmern. Die Betreuer:innen greifen nur im Notfall ein.
+
+**Die Gruppenmitglieder:**
+
+- **Milo (17)**: Autistisch, hochbegabt, logisch-analytisch. Hat ein hohes Bedürfnis nach Struktur und meidet soziale Konflikte.
+- **Sascha (18)**: Ehemaliger Heiminsasse mit antisozialen Tendenzen. Zeigt Führungsverhalten, aber auch Impulsivität und Machtbedürfnis.
+- **Emily (16)**: Traumatisiert durch sexualisierte Gewalt. Ruhig, konfliktscheu, oft dissoziativ. Sucht Orientierung durch Gruppenzugehörigkeit.
+- **Zara (15)**: Hochsozial, harmoniebedürftig, neigt zur Selbstausbeutung. Übernimmt oft Caretaking-Rollen.
+- **Kian (19)**: Hat in der Vergangenheit in einer Jugendgang gelebt. Loyal, gruppenorientiert, stark hierarchisches Denken.
+- **Leon (16)**: Introvertiert, zeigt Anzeichen einer depressiven Episode. Meidet Entscheidungen, neigt zur Passivität.
+
+**Ablauf:**
+
+In der Anfangsphase zeigt Sascha dominantes Verhalten. Kian schließt sich ihm loyal an. Gemeinsam etablieren sie Regeln, wer was im Haus zu tun hat – häufig zu ihrem eigenen Vorteil. Milo verweigert zunehmend die Zusammenarbeit mit Sascha, diskutiert Regeln analytisch und zieht sich zurück. Emily orientiert sich stark an Zara, mit der sie ein fast symbiotisches Verhältnis entwickelt. Zara versucht, alle Konflikte zu glätten, übernimmt Überverantwortung. Leon wird zunehmend isoliert und spricht kaum mehr. Die Gruppe entwickelt informelle Hierarchien: Sascha-Kian dominieren, Zara-Emily kooperieren emotional, Milo-Leon sind außenstehend.
+
+Nach sechs Wochen eskaliert ein Streit um Putzpläne. Milo stellt die Logik der Einteilung infrage. Sascha reagiert aggressiv, Emily dissoziiert, Zara weint. Leon wird gar nicht beachtet. Die Betreuerin greift ein und ordnet eine Gruppenintervention an.
+
+---
+
+## **Aufgabenstellung (schwierig, Abitur-Niveau):**
+
+### **1. Analysieren Sie die Gruppendynamik anhand der Gruppenphasen nach Bernstein. Identifizieren Sie für jedes Mitglied den jeweiligen Status innerhalb der Gruppenstruktur. Gehen Sie insbesondere auf Rollendynamiken, Konfliktverhalten und Normbildung ein. (ca. 25 Punkte)**
+
+---
+
+### **2. Deuten Sie das Verhalten einzelner Gruppenmitglieder mithilfe von sozialpsychologischen Experimenten und Theorien.**
+**Nutzen Sie mindestens drei der folgenden: Milgram, Asch, Robbers Cave, Konformität, Maslows Bedürfnishierarchie. Begründen Sie Ihre Auswahl theoriegeleitet. (ca. 25 Punkte)**
+*Denken Sie z.B. an: Konformitätsdruck bei Zara und Emily, Autorität durch Sascha, Gruppenkohäsion bei Kian, Rückzug bei Milo/Leon usw.*
+
+---
+
+### **3. Entwickeln Sie ein differenziertes Interventionskonzept aus pädagogischer Sicht: Wie kann die pädagogische Leitung mit minimalem Eingriff Gruppenkohärenz fördern, Konflikte nutzbar machen und individuelle Schutzbedürfnisse wahren? Berücksichtigen Sie psychische Besonderheiten und die Balance zwischen Sicherheit und Autonomie. (ca. 25 Punkte)**
+
+---
+
+### **4. Reflektieren Sie kritisch: Welche Chancen und Gefahren birgt Gruppenarbeit unter Bedingungen von Machtungleichgewicht, Traumatisierung und sozialen Pathologien? (ca. 15 Punkte)**
+*Beziehen Sie reale Erfahrungen ein, wenn gewünscht. Begriffe wie Sekundärgruppe, autoritäre vs. demokratische Führung, Gruppenziele, strukturelle Gewalt dürfen verwendet werden.*
+
+---
+
+### Optionaler Transferauftrag (mündlich oder schriftlich):
+
+> Wie hätte sich das Experiment verändert, wenn die Gruppe zusätzlich beobachtet und bewertet worden wäre (z.B. als Reality-TV-Projekt)? Diskutieren Sie mit Bezug auf Konformität, Macht, Selbstbild, Fremdbild.
